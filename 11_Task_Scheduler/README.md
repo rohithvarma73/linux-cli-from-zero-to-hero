@@ -82,3 +82,5 @@ crontab -u user_name -e
 
 **💡 Why This Matters:**
 Automating tasks saves time, reduces human error, and ensures important processes (like backups, cleanup scripts, or data collection) happen reliably — even when you’re away from the terminal.
+
+---
