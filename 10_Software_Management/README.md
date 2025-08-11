@@ -1,4 +1,4 @@
-# 💻 Section 9 — Software Management
+# 💻 Software Management
 
 Software management in Linux involves installing, updating, and removing packages, as well as managing repositories and package sources.  
 Mastering these tools ensures your system is **up-to-date**, **secure**, and **running only what you need**.

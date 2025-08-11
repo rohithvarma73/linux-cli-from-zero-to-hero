@@ -1,4 +1,4 @@
-# Section 7: Access Privileges
+# Access Privileges
 
 This section explains how to view and manage file and directory permissions in Linux.  
 Proper permission management ensures that only authorized users can read, modify, or execute files, helping maintain system security.

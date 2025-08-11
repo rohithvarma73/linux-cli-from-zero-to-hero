@@ -1,4 +1,4 @@
-# Section 8: Essential Terminal Tools
+# Essential Terminal Tools
 
 This section introduces important Linux concepts and tools that help you work efficiently with files, data streams, and command chaining.
 

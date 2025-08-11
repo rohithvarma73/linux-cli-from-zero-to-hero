@@ -1,4 +1,3 @@
-@"
 # Recap
 
 This section contains quick-reference cheat sheets for the two main text editors covered in this course: **GNU Nano** and **Vim**.

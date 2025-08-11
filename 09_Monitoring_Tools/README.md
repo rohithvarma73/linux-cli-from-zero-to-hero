@@ -1,4 +1,4 @@
-# 📊 Section 9 — Monitoring Tools
+# 📊 Monitoring Tools
 
 Monitoring tools are essential for **understanding system performance**, **managing processes**, and **ensuring services run smoothly**.  
 They help troubleshoot issues, maintain stability, and optimize resources.

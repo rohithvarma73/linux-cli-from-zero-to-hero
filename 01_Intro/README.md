@@ -1,4 +1,3 @@
-@"
 # Intro
 
 ## Installing Linux Ubuntu as a Local Virtual Machine

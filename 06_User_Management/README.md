@@ -1,4 +1,4 @@
-# Section 6: User Management
+# User Management
 
 This section covers the essentials of managing users and groups in a Linux environment.  
 User and group management is a core skill for system administrators, enabling control over system access, security, and collaboration.

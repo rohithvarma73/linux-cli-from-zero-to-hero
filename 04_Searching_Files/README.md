@@ -1,4 +1,3 @@
-@"
 # Searching Files
 
 ## Overview

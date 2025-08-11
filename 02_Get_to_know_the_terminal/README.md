@@ -1,4 +1,3 @@
-@"
 # Get to Know the Terminal
 
 ## Overview
